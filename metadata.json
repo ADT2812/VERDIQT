@@ -1,0 +1,6 @@
+{
+  "name": "VERDIQT",
+  "description": "Forensic AI bias auditing platform for analyzing machine learning models and datasets. Traces discrimination, identifies harm, and provides actionable pathways to eliminate bias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Data Visualization", "Legal Auditing"]
+}
