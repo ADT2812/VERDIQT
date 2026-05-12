@@ -160,8 +160,8 @@ Built with ❤️ for Google Solution Challenge 2026
 
 | Role | Name |
 |---|---|
-| Team Lead | [Your Name] |
-| Developer | [Team Member] |
+| Team Lead | Aditi J N |
+| Team members | Gayathri, Amrutha, Basil |
 
 ---
 
