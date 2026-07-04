@@ -1,3 +1,11 @@
+Welcome page
+<img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/afcaa570-c078-41fb-8696-ae1ae1f5eccb" />
+Audit
+<img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/405151e2-f7fb-4bae-b1c7-45bcc8e9eb82" />
+Foresnsic audit history
+<img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/8d967700-24f4-4a75-865f-3c3d742a01a7" />
+
+
 # VERDIQT — Forensic AI Bias Auditing Platform
 
 > *Verdict + IQ + Equity* — Because every AI decision deserves a fair trial.
