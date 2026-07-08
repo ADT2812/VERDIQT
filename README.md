@@ -5,6 +5,10 @@ Audit
 Foresnsic audit history
 <img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/8d967700-24f4-4a75-865f-3c3d742a01a7" />
 
+Deployed website link
+https://verdiqt.vercel.app/
+
+
 
 # VERDIQT — Forensic AI Bias Auditing Platform
 
